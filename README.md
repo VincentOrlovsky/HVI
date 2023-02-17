@@ -7,6 +7,9 @@ Dataset : https://www.kaggle.com/datasets/msambare/fer2013 <br />
 
 -----
 Link to web : TODO
+Link to HWI Google Disk : https://drive.google.com/drive/folders/1PoGE2eLY9UstNmo_PWAQsprbDJEpyAVy
+
+Task
 -----
 
 1. Rozdelenie sa do príslušnej skupiny, definovanie jej názvu, určenie vedúceho avytvorenie základnej www stránky výlučne na úložisku predmetu s využitím Google Sites – 3. týždeň semestra.
