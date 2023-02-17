@@ -7,7 +7,7 @@ Dataset : https://www.kaggle.com/datasets/msambare/fer2013 <br />
 
 -----
 Link to web : TODO <br />
-Link to HWI Google Disk : https://drive.google.com/drive/folders/1PoGE2eLY9UstNmo_PWAQsprbDJEpyAVy <br />
+Link to HVI Google Disk : https://drive.google.com/drive/folders/1PoGE2eLY9UstNmo_PWAQsprbDJEpyAVy <br />
 
 Task
 -----
