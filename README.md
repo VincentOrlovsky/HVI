@@ -1,6 +1,5 @@
 # HVI
 
-Google Disk : https://drive.google.com/drive/folders/1UqkqY2pOV8qIt5W8pJYHpqdGMUyoD1Ak?usp=sharing <br />
 OneDrive : https://tukesk-my.sharepoint.com/:f:/g/personal/vincent_orlovsky_student_tuke_sk/Ek4jHMgrPDlCuJx39cbz0v8BB8iG372uOIXOwX65ulN7Bg?e=1AeceR <br />
 Dataset : https://www.kaggle.com/datasets/msambare/fer2013 <br />
 (Alternative Dataset: https://www.kaggle.com/datasets/tom99763/affectnethq?select=anger) <br />
